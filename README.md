@@ -102,7 +102,7 @@ Para fazer um **COPY** desse projeto em sua máquina localmente, siga às etapas
 
   - Use o comando: 
    ```sh
-   git clone git@github.com:Lucdomingues/Recipes-App.github.io.git
+   git clone git@github.com:Lucdomingues/Frontend-Online-Store.git
    ```
   2. Instale as dependências
    ```sh
