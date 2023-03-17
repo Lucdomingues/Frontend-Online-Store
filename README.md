@@ -166,8 +166,8 @@ LINKEDIN - [https://www.linkedin.com/in/lucas-domingues-developer/](https://www.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Lucdomingues/Recipes-App.github.io.svg?style=for-the-badge
-[contributors-url]: https://github.com/Lucdomingues/Recipes-App.github.io/graphs/contributors
+[contributors-shield]: https://img.shields.io/github/contributors/Lucdomingues/Frontend-Online-Store.svg?style=for-the-badge
+[contributors-url]: https://github.com/Lucdomingues/Frontend-Online-Store/graphs/contributors
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/lucas-domingues-developer/
 [product-screenshot]: images/screenshot.png
