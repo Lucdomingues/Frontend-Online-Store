@@ -30,10 +30,10 @@
     <img src="https://github.com/othneildrew/Best-README-Template/raw/master/images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Recipes-App</h3>
+<h3 align="center">Frontend-Online-Store</h3>
 
   <p align="center">
-    Projeto com base em uma aplicação de receitas
+    Projeto com base em uma aplicação de uma loja de compras online
     <br />
   </p>
 </div>
@@ -66,13 +66,13 @@
 <!-- SOBRE O PROJETO -->
 ## Sobre o projeto
 
-Nesse projeto, a pessoa que estiver utilizando o app pode procurar uma receita específica, explorar receitas baseado em diferentes critérios, favoritar e fazer as receitas, entre outras funcionalidades.
-
-As telas sofrem variações dependendo do tipo da receita (se é comida ou bebida, no caso).
-
-A base de dados são 2 APIs distintas, uma para comidas e outra para bebidas.
-
-O layout tem como foco dispositivos móveis, por conta disso todos os protótipos estão disponíveis em telas menores.
+  Neste projeto foi criado uma versão simplificada, sem persistência no banco de dados, de uma **loja online**, desenvolvido em grupo utilizando métodos como **Scrum**, **Pair Programming**, **Kanban** com auxílio de **DM's(Daily's Meeting)**, em um cenário próximo ao do mercado de trabalho.
+  
+  A partir de algumas demandas, temos uma aplicação em que pessoas usuárias podem:
+  - Buscar produtos por termos e categorias a partir da _API do Mercado Livre_;
+  - Interagir com os produtos buscados de modo a adicioná-los e removê-los de um carrinho de compras em diferentes quantidades;
+  - Visualizar detalhes e avaliações prévias de um produto, bem como criar novas avaliações e;
+  - Simular a finalização da compra dos itens selecionados.
 
 
 <p align="right">(<a href="#readme-top">de volta para o topo</a>)</p>
